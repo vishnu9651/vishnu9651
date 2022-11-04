@@ -15,6 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishnu upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu upadhyay" height="30" width="40" /></a>
+  <a title="vishnukantee0044@gmail.com" href="mailto:vishnukantee0044@gmail.com"><img src="https://img.olhardigital.com.br/uploads/acervo_imagens/2018/10/20181018233712.jpg" align="center" alt="mail"  height="30" width="40"/></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
